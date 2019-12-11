@@ -1,0 +1,42 @@
+[
+  {
+    "typeInt": "Cotonou",
+    "price": 2.99
+  },
+  {
+    "typeInt": "Calavi",
+    "price": 3.99
+  },
+  {
+    "typeInt": "Porto-Novo",
+    "price": 5.99
+  },
+  {
+    "typeInt": "Bohicon,Abomey",
+    "price": 10.99
+  },
+  {
+    "typeInt": "Malanville",
+    "price": 25.99
+  },
+  {
+    "typeInt": "Dassa",
+    "price": 23.99
+  },
+  {
+    "typeInt": "Parakou",
+    "price": 27.99
+  },
+  {
+    "typeInt": "Comè,Lokossa,Grand-popo",
+    "price": 9.99
+  },
+  {
+    "typeInt": "Envoie par DHL",
+    "price": 20.99
+  },
+  {
+    "typeInt": "Envoie par La Poste",
+    "price": 19.99
+  }
+]
